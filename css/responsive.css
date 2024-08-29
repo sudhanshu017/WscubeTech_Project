@@ -1,0 +1,39 @@
+@media only screen and (min-width:768px) {
+    #search-ipn {
+        width: 250px;
+    }
+
+    #top-content {
+        padding-top: 140px !important;
+    }
+
+    #categories div:nth-child(1) {
+        padding-top: 120px !important;
+    }
+
+    #mation-goals-img {
+        margin-left: 95px !important;
+    }
+
+    #mobile-label {
+        font-size: 17px;
+    }
+
+    #form-box {
+        margin-top: 50px !important;
+        padding-right: 70px !important;
+    }
+
+    #form-box h1 {
+        font-size: 35px;
+    }
+
+    #mobile-img img {
+        width: 40%;
+    }
+
+    #mobile-img img:nth-child(2) {
+        width: 38%;
+        top: 10px;
+    }
+}
